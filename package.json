@@ -21,7 +21,7 @@
         "release": "standard-version"
     },
     "dependencies": {
-        "@ethersproject/bignumber": "^5.2.0",
+        "@ethersproject/bignumber": "^5.7.0",
         "web3": "1.7.4"
     },
     "devDependencies": {
